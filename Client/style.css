@@ -1,0 +1,52 @@
+.jumbotron {
+  text-align: center;
+	font-size:1em;
+	color:#2c3e50;
+  font-family:'Rockwell', bold, cursive;
+	background: white;
+
+}
+
+.container{
+	text-align: center;
+  margin: 0 auto;
+  background: white;
+}
+
+#phoneNumber {
+	text-align: center;
+	margin:0 auto;
+	font-size:4em;
+	color: #3498db;
+	margin-top: -4%;
+	margin-bottom:5%;
+}
+
+#userPrompt { 
+	text-align: center;
+	font-size: 1.75em;
+	color:#2c3e50;
+	font-family:'Rockwell', cursive;
+}
+
+#explanation {
+	padding:5%;
+	margin-top: 15%;
+	margin-bottom:15%;
+	text-align: center;
+	font-size: 1.2em;
+	color:#2c3e50;
+	background:#ecf0f1;
+	font-family:'Rockwell', cursive;
+	border-radius:3%;
+	height:30%;
+}
+
+#explanation > p {
+	color:gray;
+}
+
+
+
+
+
